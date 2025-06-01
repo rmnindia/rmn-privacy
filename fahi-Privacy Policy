@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Fahi Foods</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f8f8f8;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #2e7d32;
+    }
+    h2 {
+      color: #444;
+      margin-top: 1.5rem;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy for Fahi Foods</h1>
+  <p><strong>Effective Date:</strong> June 1, 2025</p>
+
+  <p>Fahi Foods ("we", "our", or "us") respects your privacy. This Privacy Policy describes how we handle your information when you use our Android application.</p>
+
+  <h2>1. No Personal Data Collected</h2>
+  <p>We do <strong>not</strong> collect, store, or share any personal information such as:</p>
+  <ul>
+    <li>Name</li>
+    <li>Email</li>
+    <li>Phone number</li>
+    <li>Password</li>
+    <li>Location</li>
+    <li>Device identifiers</li>
+  </ul>
+
+  <h2>2. App Usage</h2>
+  <p>This app is designed <strong>for educational and demonstration purposes only</strong>. It is not intended for commercial use.</p>
+
+  <h2>3. No Third-Party Services</h2>
+  <p>Fahi Foods does <strong>not</strong> use any third-party services or SDKs that track or collect user data.</p>
+
+  <h2>4. Data Security</h2>
+  <p>Since we do not collect or transmit any data, there are no security risks associated with personal data storage or sharing.</p>
+
+  <h2>5. Changes to This Policy</h2>
+  <p>We may update this policy if the app's features change. All updates will be posted within the app or on the official app store listing.</p>
+
+  <h2>6. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact the developer at:</p>
+  <p>
+    <strong>Email:</strong> rmnindia1984@gmail.com<br>
+    <strong>App Name:</strong> Fahi Foods
+  </p>
+
+  <div class="footer">
+    <p>© 2025 Fahi Foods. All rights reserved.</p>
+  </div>
+
+</body>
+</html>
